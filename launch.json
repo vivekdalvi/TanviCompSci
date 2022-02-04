@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HailStone",
+            "request": "launch",
+            "mainClass": "TimePractice1.HailStone",
+            "projectName": "Tanvi Compsci_ecc36982"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HailStone",
+            "request": "launch",
+            "mainClass": "Vehicles.TimePractice1.HailStone",
+            "projectName": "Tanvi Compsci_ecc36982"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseName",
+            "request": "launch",
+            "mainClass": "ReverseName",
+            "projectName": "Tanvi Compsci_ecc36982"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestGetOverlapBox",
+            "request": "launch",
+            "mainClass": "TestGetOverlapBox",
+            "projectName": "Tanvi Compsci_ecc36982"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CrazySeven",
+            "request": "launch",
+            "mainClass": "semester1.CrazySeven",
+            "projectName": "Tanvi Compsci_ecc36982"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
